@@ -15,9 +15,9 @@ const Home = () => {
           <div className="context-box">
             <h1>Website Code Mirror</h1>
             <p>
-              You can literal Lorem ipsum dolor sit amet, consectetur adipiscing
-              elit. Etiam mollis ipsum et egestas ultrices. Integer nisi mi,
-              rhoncus vel sapien ut, sagittis pulvinar tellus.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
+              mollis ipsum et egestas ultrices. Integer nisi mi, rhoncus vel
+              sapien ut, sagittis pulvinar tellus.
             </p>
             <div className="form-box">
               <input

@@ -22,8 +22,7 @@ button:disabled {
 }
 
 .context-main {
-  background: #4e54c8;
-  background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);
+  background: #000;
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -196,7 +195,7 @@ button:disabled {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: #4e54c8;
+  background-color: #000;
 }
 .error-404 h1 {
   font-size: 1.5rem;
@@ -238,8 +237,7 @@ button:disabled {
   bottom: 0;
 }
 .download-details .col {
-  background: #4e54c8;
-  background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);
+  background: #000;
   width: 100vw;
   height: 100vh;
   display: flex;
